@@ -1,0 +1,11 @@
+
+.card{
+    border: 5px solid rgb(120, 150, 231);
+    color:black;
+
+    
+}
+.card-footer{
+    color: black;
+    margin: 0;
+}
